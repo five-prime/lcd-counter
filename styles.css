@@ -39,3 +39,16 @@ table{
   display: inline;
 
 }
+input::-webkit-inner-spin-button{
+width: 200px!important;
+height: 200px!important;
+}
+
+input{
+  height: 200px;
+
+}
+#increment{
+
+    width: 33vw;
+}
